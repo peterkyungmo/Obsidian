@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1781ceabe9338fde",
+        "id": "717c94137f397d21",
         "type": "tabs",
         "children": [
           {
-            "id": "68604749e2739d7e",
+            "id": "3503faa86419cb46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Improvements.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home Improvements"
-            }
-          },
-          {
-            "id": "b8afee8668af7ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graphs"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,12 +80,11 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.5
   },
   "right": {
     "id": "acc94270e8874d3e",
@@ -167,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphs"
+              "title": "Outline"
             }
           },
           {
@@ -182,8 +161,8 @@
             "state": {
               "type": "video-view",
               "state": {},
-              "icon": "video",
-              "title": "Timestamp Video"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -195,18 +174,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "b8afee8668af7ffc",
+  "active": "3503faa86419cb46",
   "lastOpenFiles": [
+    "_templates/Daily Template.md",
+    "_templates/Sprint Template.md",
+    "_templates/LeetCode Template.md",
+    "Weekly-Sprints",
+    "Daily-Notepad",
     "Arrays.md",
     "Linked Lists.md",
     "Stacks, Queues, Heaps.md",
@@ -230,9 +214,6 @@
     "Rust Types, Typing and Variables.md",
     "Rust Idioms.md",
     "LearnCPP - Statements and Structure of a Program.md",
-    "Weekly/Living-32.md",
-    "Anonymous Set (Open House, Good Times).md",
-    "Markus Animation Basics 5-20.md",
     "Media/Klee Shoot 4-23.mov",
     "Media/Prometheus-Architecture.png",
     "EA625CB8-6739-4575-80B4-FA83145DCF31_1_201_a.jpeg",
@@ -243,10 +224,8 @@
     "2025 Fam Bam Blocking Part 1.mov",
     "ScreenRecording_05-13-2025 21-57-34_1.mov",
     "Anonymous Blocking Part 1.mov",
-    "Anonymous Full Run 5-3.mp4",
     "BSL Evaluation 2.png",
     "BSL Evaluation 1.png",
-    "IMG_7162.mov",
     "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_1_102_o.jpeg",
     "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_4_5005_c.jpeg",
     "Media/Tries-Example.png",
