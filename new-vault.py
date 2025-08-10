@@ -12,7 +12,7 @@ parser.add_argument('vaultName', nargs='?', default="Notes")
 args = parser.parse_args()
 
 # Copy Vault-Template to your VaultPath
-dst = Path('vaults') / args.vaultName
-src = "template"
+dst = Path('Vault') / args.vaultName
+src = ".template"
 print("Creating", args.vaultName, "to", dst)
 shutil.copytree(src, dst)
