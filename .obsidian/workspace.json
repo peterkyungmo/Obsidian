@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "a083ad502d6eea2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1781ceabe9338fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68604749e2739d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Improvements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Improvements"
+            }
+          },
+          {
+            "id": "b8afee8668af7ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphs"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "015c4e68d6c40164",
+    "type": "split",
+    "children": [
+      {
+        "id": "62faf3665bc40ad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f842818dca0bd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e48632f202d8dc83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "templ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d4b88739f766a42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c72e7ff65440dbcf",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acc94270e8874d3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cdd21832530c8b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deab1256602c1d71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Klee Shoot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Klee Shoot"
+            }
+          },
+          {
+            "id": "12888e5e611061b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8874298d374139fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "865cb3ae35de747d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graphs.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Graphs"
+            }
+          },
+          {
+            "id": "8f9342b4bf6e8728",
+            "type": "leaf",
+            "state": {
+              "type": "video-view",
+              "state": {},
+              "icon": "video",
+              "title": "Timestamp Video"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b8afee8668af7ffc",
+  "lastOpenFiles": [
+    "Arrays.md",
+    "Linked Lists.md",
+    "Stacks, Queues, Heaps.md",
+    "Dance Training Start.md",
+    "Home Improvements.md",
+    "Dance Training Master.md",
+    "Financial Planning.md",
+    "Pacifica Service Office Move.md",
+    "All Valorant Mechanics.md",
+    "Lotus.md",
+    "Yoru Mechanics.md",
+    "Abyss.md",
+    "List of All Valorant Mechanics.md",
+    "Valorant Goals for v25.md",
+    "Dance Goals for '25-'26 Season.md",
+    "Practicing Good Developer Behavior.md",
+    "Reflecting on Good Times.md",
+    "Fatigue.md",
+    "Rust Primitives Types, Ops, Loops, Control.md",
+    "Rust Methods, Functions, Procedures.md",
+    "Rust Types, Typing and Variables.md",
+    "Rust Idioms.md",
+    "LearnCPP - Statements and Structure of a Program.md",
+    "Weekly/Living-32.md",
+    "Anonymous Set (Open House, Good Times).md",
+    "Markus Animation Basics 5-20.md",
+    "Media/Klee Shoot 4-23.mov",
+    "Media/Prometheus-Architecture.png",
+    "EA625CB8-6739-4575-80B4-FA83145DCF31_1_201_a.jpeg",
+    "Setup",
+    "Media/Anonymous Set Closer 4-19.mp4",
+    "Media/Photos",
+    "Media/Videos",
+    "2025 Fam Bam Blocking Part 1.mov",
+    "ScreenRecording_05-13-2025 21-57-34_1.mov",
+    "Anonymous Blocking Part 1.mov",
+    "Anonymous Full Run 5-3.mp4",
+    "BSL Evaluation 2.png",
+    "BSL Evaluation 1.png",
+    "IMG_7162.mov",
+    "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_1_102_o.jpeg",
+    "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_4_5005_c.jpeg",
+    "Media/Tries-Example.png",
+    "Media/Heap-Example.png",
+    "Media/Array-Time-Table.png",
+    "Media/Bit-Operations-Truth-Tables.png"
+  ]
+}
