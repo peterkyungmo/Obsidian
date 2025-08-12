@@ -11,4 +11,3 @@ frame: Todoist
 style: height: 500px
 ```
 # Journal Entries
-[[Cleaning Life is a Ongoing Journey]]
