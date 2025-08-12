@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "717c94137f397d21",
+        "id": "aa47a2eab991ea1e",
         "type": "tabs",
         "children": [
           {
-            "id": "3503faa86419cb46",
+            "id": "a65658eafe859d0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,12 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_media/img/_media IMG.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of _media IMG"
             }
           },
           {
@@ -184,9 +185,15 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "3503faa86419cb46",
+  "active": "76f842818dca0bd8",
   "lastOpenFiles": [
+    "_media/valorant/_media Valorant.md",
+    "_media/img/_media IMG.md",
+    "_media/dance/_media Dance.md",
     "_templates/Daily Template.md",
+    "_media/img",
+    "_media/valorant",
+    "_media/dance",
     "_templates/Sprint Template.md",
     "_templates/LeetCode Template.md",
     "Weekly-Sprints",
@@ -211,9 +218,6 @@
     "Fatigue.md",
     "Rust Primitives Types, Ops, Loops, Control.md",
     "Rust Methods, Functions, Procedures.md",
-    "Rust Types, Typing and Variables.md",
-    "Rust Idioms.md",
-    "LearnCPP - Statements and Structure of a Program.md",
     "Media/Klee Shoot 4-23.mov",
     "Media/Prometheus-Architecture.png",
     "EA625CB8-6739-4575-80B4-FA83145DCF31_1_201_a.jpeg",
@@ -221,9 +225,6 @@
     "Media/Anonymous Set Closer 4-19.mp4",
     "Media/Photos",
     "Media/Videos",
-    "2025 Fam Bam Blocking Part 1.mov",
-    "ScreenRecording_05-13-2025 21-57-34_1.mov",
-    "Anonymous Blocking Part 1.mov",
     "BSL Evaluation 2.png",
     "BSL Evaluation 1.png",
     "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_1_102_o.jpeg",

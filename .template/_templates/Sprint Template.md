@@ -1,4 +1,4 @@
-#life/sprint
+#sprint
 # Daily Habits
 - [ ] Monday: Task Management, Text Thanh, Workout
 - [ ] Tuesday: Task Management, Text Thanh, Dance

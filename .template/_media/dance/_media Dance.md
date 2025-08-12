@@ -1,0 +1,1 @@
+This directory contains all footage such as labs, classes, practices, etc to help me clean.
