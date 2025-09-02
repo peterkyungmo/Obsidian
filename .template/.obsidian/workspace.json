@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa47a2eab991ea1e",
+        "id": "4951a6bbd9878f08",
         "type": "tabs",
         "children": [
           {
-            "id": "a65658eafe859d0f",
+            "id": "cd1ab0ae06836a1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Daily Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Template"
             }
           }
         ]
@@ -147,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_media/img/_media IMG.md",
+                "file": "_templates/Daily Template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _media IMG"
+              "title": "Outline of Daily Template"
             }
           },
           {
@@ -181,23 +185,30 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "obsidian-custom-frames:Open Google Calendar": false
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "76f842818dca0bd8",
+  "active": "cd1ab0ae06836a1a",
   "lastOpenFiles": [
-    "_media/valorant/_media Valorant.md",
+    "_templates/Dummy Template.md",
+    "_templates/Weekly Template.md",
+    "_templates/Daily Template.md",
+    "_media/_media.md",
+    "Daily/Daily Notes.md",
+    "Weekly/Weekly Notes.md",
     "_media/img/_media IMG.md",
     "_media/dance/_media Dance.md",
-    "_templates/Daily Template.md",
+    "_media/valorant/_media Valorant.md",
+    "_templates/Sprint Template.md",
+    "Docs/Taula Deployment Overview.md",
+    "Docs",
     "_media/img",
     "_media/valorant",
     "_media/dance",
-    "_templates/Sprint Template.md",
     "_templates/LeetCode Template.md",
-    "Weekly-Sprints",
-    "Daily-Notepad",
+    "Weekly",
+    "Daily",
     "Arrays.md",
     "Linked Lists.md",
     "Stacks, Queues, Heaps.md",
@@ -211,20 +222,12 @@
     "Yoru Mechanics.md",
     "Abyss.md",
     "List of All Valorant Mechanics.md",
-    "Valorant Goals for v25.md",
-    "Dance Goals for '25-'26 Season.md",
-    "Practicing Good Developer Behavior.md",
-    "Reflecting on Good Times.md",
-    "Fatigue.md",
-    "Rust Primitives Types, Ops, Loops, Control.md",
-    "Rust Methods, Functions, Procedures.md",
     "Media/Klee Shoot 4-23.mov",
     "Media/Prometheus-Architecture.png",
     "EA625CB8-6739-4575-80B4-FA83145DCF31_1_201_a.jpeg",
     "Setup",
     "Media/Anonymous Set Closer 4-19.mp4",
     "Media/Photos",
-    "Media/Videos",
     "BSL Evaluation 2.png",
     "BSL Evaluation 1.png",
     "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_1_102_o.jpeg",

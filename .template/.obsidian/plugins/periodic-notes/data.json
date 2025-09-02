@@ -5,13 +5,13 @@
   "daily": {
     "format": "YYYY-MM-DD",
     "template": "_templates/Daily Template.md",
-    "folder": "Daily-Notepad",
+    "folder": "Daily",
     "enabled": true
   },
   "weekly": {
     "format": "[Living]-ww",
-    "template": "_templates/Sprint Template.md",
-    "folder": "Weekly-Sprints",
+    "template": "_templates/Weekly Template.md",
+    "folder": "Weekly",
     "enabled": true
   },
   "monthly": {
