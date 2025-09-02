@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "4951a6bbd9878f08",
+        "id": "cf726d43c71be89a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd1ab0ae06836a1a",
+            "id": "75f4d058af7af1db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Daily Template.md",
+                "file": "Weekly-Sprints/Living-36.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Template"
+              "title": "Living-36"
+            }
+          },
+          {
+            "id": "d29100cc7e7be281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Improvements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Improvements"
+            }
+          },
+          {
+            "id": "726e54e45b5fecb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Improvements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Improvements"
             }
           }
         ]
@@ -88,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 243.5
   },
   "right": {
     "id": "acc94270e8874d3e",
@@ -137,27 +165,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "865cb3ae35de747d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_templates/Daily Template.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Daily Template"
             }
           },
           {
@@ -171,11 +184,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 360.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,55 +200,62 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "password-protection:Lock password protection": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false
     }
   },
-  "active": "cd1ab0ae06836a1a",
+  "active": "76f842818dca0bd8",
   "lastOpenFiles": [
-    "_templates/Dummy Template.md",
-    "_templates/Weekly Template.md",
-    "_templates/Daily Template.md",
-    "_media/_media.md",
-    "Daily/Daily Notes.md",
-    "Weekly/Weekly Notes.md",
-    "_media/img/_media IMG.md",
-    "_media/dance/_media Dance.md",
-    "_media/valorant/_media Valorant.md",
+    "2025 August Financial Review.md",
+    "Weekly-Sprints/Living-36.md",
+    "Daily-Notepad/2025-09-02.md",
+    "Daily-Notepad/2025-09-01.md",
+    "Weekly-Sprints/Living-35.md",
+    "Daily-Notepad/2025-08-26.md",
+    "Jett Master Guide.md",
+    "Taking Stock a Couple of Weeks After.md",
+    "Media/Pasted image 20250825230352.png",
+    "Media/Taking A Main Default.png",
+    "Media/Pasted image 20250825225723.png",
+    "Media/Pistol Round Taking Mid.png",
+    "Media/Flash from logs to peek B Main.png",
+    "Yoru Ascent Playbook.md",
+    "Yoru Master Guide.md",
+    "Untitled.md",
+    "Media/Flash vs Tree Entry Yoru.png",
+    "Media",
+    "Yoru Playbooks.md",
+    "Home Improvements.md",
+    "Daily-Notepad/2025-08-24.md",
+    "Date Ideas.md",
+    "Weekly-Sprints/Living-34.md",
+    "Weekly-Sprints/Living-33.md",
+    "GC and Pacifica Updates.mdenc",
+    "_sensitive/Decommissioning My Old Self.mdenc",
+    "Instigating a Major Life Change.md",
+    "The Most Important Decision.md",
+    "_sensitive/Test Lock.mdenc",
+    "The Birthday Incident - Starting strong after a rough patch.md",
+    "Valorant Immortal Roadmap.md",
+    "Daily-Notepad/2025-08-13.md",
+    "React Course.md",
+    "_sensitive",
+    "Daily-Notepad",
     "_templates/Sprint Template.md",
-    "Docs/Taula Deployment Overview.md",
-    "Docs",
+    "_media/valorant/_media Valorant.md",
+    "_media/img/_media IMG.md",
     "_media/img",
     "_media/valorant",
     "_media/dance",
-    "_templates/LeetCode Template.md",
-    "Weekly",
-    "Daily",
-    "Arrays.md",
-    "Linked Lists.md",
-    "Stacks, Queues, Heaps.md",
-    "Dance Training Start.md",
-    "Home Improvements.md",
-    "Dance Training Master.md",
-    "Financial Planning.md",
-    "Pacifica Service Office Move.md",
-    "All Valorant Mechanics.md",
-    "Lotus.md",
-    "Yoru Mechanics.md",
-    "Abyss.md",
-    "List of All Valorant Mechanics.md",
-    "Media/Klee Shoot 4-23.mov",
+    "Weekly-Sprints",
     "Media/Prometheus-Architecture.png",
     "EA625CB8-6739-4575-80B4-FA83145DCF31_1_201_a.jpeg",
-    "Setup",
-    "Media/Anonymous Set Closer 4-19.mp4",
-    "Media/Photos",
     "BSL Evaluation 2.png",
-    "BSL Evaluation 1.png",
-    "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_1_102_o.jpeg",
-    "Media/CF5F2579-A1EC-4A5D-831A-C6367E37EFE1_4_5005_c.jpeg",
-    "Media/Tries-Example.png",
-    "Media/Heap-Example.png",
-    "Media/Array-Time-Table.png",
-    "Media/Bit-Operations-Truth-Tables.png"
+    "BSL Evaluation 1.png"
   ]
 }
