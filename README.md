@@ -15,4 +15,4 @@ Because all plugins, configurations, and settings are stored in the hidden `.obs
 Different branches are used to setup different templates, plugins, and folder structure for how we want to generate different vaults.
 - `main` - Sets up a barebones directory with no templates. Only plugins and hotkeys will be set.
 - `personal` - Sets up my preferred directory structure and templates for use in my personal notetaking system.
-- `work` - Sets up ideal directory structure, templates, and plugins for work place environment (exclude any plugins that impacts data privacy).
+- `work` - Sets up ideal directory structure, templates, and plugins for work place environment. (Note: Branch will always be ahead on work machines than remote to include any sensitive info that should not be published publically)
