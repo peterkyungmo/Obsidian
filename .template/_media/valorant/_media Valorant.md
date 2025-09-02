@@ -1,1 +1,0 @@
-This directory contains all VODs to help me review my Valorant gameplay.
